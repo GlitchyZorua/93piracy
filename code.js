@@ -60,7 +60,7 @@ $db.set("boot/piracy.js","window.location.hash=\"#\";biosSetup();$boot.BIOS.inne
  ########   ########  ###       ########### ###    ### ###     ###  ########     ###  v0.3
 
                                      Credits
-                          93PIRACY - By Jacob Workman
+                            93PIRACY - GlitchyZorua
                     Corruptions (aka Sonicunt) - By Litvx
                 Mario Party (corruptions sounds) - By Joey Perleoni
                 Mario Party (Piracy is no party) song - By Joey Perleoni

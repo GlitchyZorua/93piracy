@@ -78,7 +78,7 @@ $db.set("boot/piracy.js","window.location.hash=\"#\";biosSetup();$boot.BIOS.inne
               del to open bios. then, go to "Reinstall Windows 93". And, you are done.
                     
                       Hopefully that should cover everything about this virus.
-                 Questions? Please DM me on discord. My username is Jacobw#8117
+                 Questions? Please DM me on discord. My username is GlitchyZorua
                                      Verison: 0.3
                
              
